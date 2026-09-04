@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Tiny wrapper so `./snip <args>` works on macOS/Linux without npm-linking the bin.
+exec node "$(dirname "$0")/cli.js" "$@"

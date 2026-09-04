@@ -1,0 +1,9 @@
+{
+  "name": "snip-bundle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Generated Snip release: backend + built UI + CLI. Do not hand-edit.",
+  "scripts": {
+    "start": "bun server.js"
+  }
+}

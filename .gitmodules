@@ -1,0 +1,12 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Darkoyaki/aisdlc_day1_workshop_demo
+	branch = backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Darkoyaki/aisdlc_day1_workshop_demo
+	branch = frontend
+[submodule "cli"]
+	path = cli
+	url = https://github.com/Darkoyaki/aisdlc_day1_workshop_demo
+	branch = cli
